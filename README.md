@@ -409,7 +409,7 @@ Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishe
 [[back to top]](#company-index)
 |   Occurence | Problem                                                                 | Difficulty   | Solution                                                                                                              |
 |------------:|:------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------------------------------------------------|
-|           4 | ~[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_697.java)~ |
+|           4 | ~[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)~ | Easy         | [Solution](https://github.com/fishercoder1534/Leetcode/blob/master/src/main/java/com/fishercoder/solutions/_697.java) |
 
 ## Atlassian
 
